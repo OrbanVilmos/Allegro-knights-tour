@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1670928859 source:c:\c++\graf_backtrack\main.cpp
+	<iostream>
+	<vektor.h>
+	<grafika.h>
+
+1674998114 source:c:\users\apple\documents\c++\graf_backtrack\main.cpp
+	<iostream>
+	<vektor.h>
+	<grafika.h>
+
